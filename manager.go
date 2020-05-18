@@ -3,7 +3,6 @@ package sectorstorage
 import (
 	"context"
 	"errors"
-	cid "github.com/ipfs/go-cid/_rsrch/cidiface"
 	"io"
 	"net/http"
 
